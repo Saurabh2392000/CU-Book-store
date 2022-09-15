@@ -1,0 +1,2 @@
+# CU-Book-store
+App serves the purpose to be a medium between Student who want to sell book and whosoever want to buy book from Chandigarh University.It is hard to contact directly to student and search the students who are willing to buy/ sell books.  This app will give opportunity to them who are willing to buy/sell books within Campus.  Also connect to student who are interested in Reading books in this digital era.
